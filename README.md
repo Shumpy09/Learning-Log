@@ -1,4 +1,4 @@
-# Learning-Log
+# 1. Project: Learning-Log
 
 * Aplikacja internetowa służąca do monitorowania swoich postępów w nauce
 * Użytkownicy mogą utworzyć konto z nazwą użytkownika i hasłem, dodać temat oraz wpis
