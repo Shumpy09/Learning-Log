@@ -1,4 +1,4 @@
-# [1. Project: Learning-Log] (https://learning-log-9w.herokuapp.com/)
+# [1. Project: Learning-Log](https://learning-log-9w.herokuapp.com/)
 
 * Aplikacja internetowa służąca do monitorowania swoich postępów w nauce
 * Użytkownicy mogą utworzyć konto z nazwą użytkownika i hasłem, dodać temat oraz wpis
