@@ -4,6 +4,6 @@
 * Użytkownicy mogą utworzyć konto z nazwą użytkownika i hasłem, dodać temat oraz wpis
 * Aplikacja wykorzystuje framework Django i jest wdrożona na platformę sieciową Heroku
 
-=== link do heroku === 
+https://learning-log-9w.herokuapp.com/
 
 === screen ===
